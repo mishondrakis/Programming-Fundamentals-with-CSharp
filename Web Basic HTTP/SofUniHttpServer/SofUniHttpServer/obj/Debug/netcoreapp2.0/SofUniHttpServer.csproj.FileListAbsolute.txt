@@ -1,0 +1,4 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\Web Basic HTTP\SofUniHttpServer\SofUniHttpServer\obj\Debug\netcoreapp2.0\SofUniHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\Web Basic HTTP\SofUniHttpServer\SofUniHttpServer\obj\Debug\netcoreapp2.0\SofUniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\Web Basic HTTP\SofUniHttpServer\SofUniHttpServer\obj\Debug\netcoreapp2.0\SofUniHttpServer.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\Web Basic HTTP\SofUniHttpServer\SofUniHttpServer\obj\Debug\netcoreapp2.0\SofUniHttpServer.AssemblyInfo.cs

@@ -6,18 +6,18 @@ namespace _05._Character_Stats
     {
         static void Main(string[] args)
         {
-            string nameHeroes = Console.ReadLine();
+            int[] numbers = { 2, 3, 4, 22, 1 };
 
-            int health = int.Parse(Console.ReadLine());
-            int maximumHealth = int.Parse(Console.ReadLine());
+            var biggestNumber = 0;
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                if (numbers[i] > biggestNumber) 
+                {
+                    biggestNumber = numbers[i];
+                }
+            }
+            Console.WriteLine(biggestNumber);
 
-            int energy = int.Parse(Console.ReadLine());
-            int maximumEnergy = int.Parse(Console.ReadLine());
-
-            string currentHealth = "|" + new string('|', health) + new string('.', maximumHealth - health) + "|";
-            string currentEnergy = "|" + new string('|', energy) + new string('.', maximumEnergy - energy) + "|";
-
-            Console.WriteLine($"Name: {nameHeroes} \r\n Health: {currentHealth} \r\n Energy: {currentEnergy}");
         }
     }
 }

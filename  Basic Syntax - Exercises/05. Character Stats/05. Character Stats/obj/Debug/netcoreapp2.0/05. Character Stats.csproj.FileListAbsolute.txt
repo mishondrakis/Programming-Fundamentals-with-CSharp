@@ -1,0 +1,11 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\bin\Debug\netcoreapp2.0\05. Character Stats.deps.json
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\bin\Debug\netcoreapp2.0\05. Character Stats.runtimeconfig.json
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\bin\Debug\netcoreapp2.0\05. Character Stats.runtimeconfig.dev.json
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\bin\Debug\netcoreapp2.0\05. Character Stats.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\bin\Debug\netcoreapp2.0\05. Character Stats.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\obj\Debug\netcoreapp2.0\05. Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\obj\Debug\netcoreapp2.0\05. Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\obj\Debug\netcoreapp2.0\05. Character Stats.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\obj\Debug\netcoreapp2.0\05. Character Stats.AssemblyInfo.cs
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\obj\Debug\netcoreapp2.0\05. Character Stats.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Programming-Fundamentals-with-CSharp\ Basic Syntax - Exercises\05. Character Stats\05. Character Stats\obj\Debug\netcoreapp2.0\05. Character Stats.pdb

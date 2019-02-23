@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-with-CSharp\\Basic\\01. Greetings\\01. Greetings\\01. Greetings.csproj",
-      "projectName": "01. Greetings",
-      "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-with-CSharp\\Basic\\01. Greetings\\01. Greetings\\01. Greetings.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-with-CSharp\\Web Basic HTTP\\SofUniHttpServer\\SofUniHttpServer\\SofUniHttpServer.csproj",
+      "projectName": "SofUniHttpServer",
+      "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-with-CSharp\\Web Basic HTTP\\SofUniHttpServer\\SofUniHttpServer\\SofUniHttpServer.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-with-CSharp\\Basic\\01. Greetings\\01. Greetings\\obj\\",
+      "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Programming-Fundamentals-with-CSharp\\Web Basic HTTP\\SofUniHttpServer\\SofUniHttpServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,8 +6,10 @@ namespace _01._Greetings
     {
         static void Main(string[] args)
         {
-            var name = Console.ReadLine();
-            Console.WriteLine($"Hello, {name}!");
+            string name = Console.ReadLine();
+
+            Console.WriteLine(name);
+           
         }
     }
 }
